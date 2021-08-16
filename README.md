@@ -40,11 +40,6 @@ cd supg/
 pip install pandas feather-format
 pip install -e .
 cd ..
-
-git clone https://github.com/stanford-futuredata/tasti.git
-cd tasti/
-pip install -r requirements.txt
-pip install -e .
 ```
 
 # Reproducing Experiments
